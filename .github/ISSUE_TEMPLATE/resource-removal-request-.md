@@ -1,0 +1,10 @@
+---
+name: 'Resource Removal Request '
+about: 'Founder’s request for resource to be removed '
+title: Remove [Name of Resource]
+labels: ''
+assignees: ''
+
+---
+
+
